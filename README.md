@@ -13,7 +13,7 @@ An example Elixir chat app using Phoenix channels and presence. Follow along at 
 Requires Erlang and Elixir.
 
 ```
-$ git clone git@github.com:stevegrossi/phoenix_chat.git
+$ git clone git@github.com:lambospeed/phoenix_chat.git
 $ cd phoenix_chat
 $ mix deps.get
 $ npm install
